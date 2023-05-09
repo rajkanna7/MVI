@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--Neutral colors-->
+    <color name="neutral_gray_50">#EAEAEA</color>
+    <color name="neutral_gray_200">#C4C4C4</color>
+    <color name="neutral_gray_300">#ADACAB</color>
+    <color name="neutral_gray_500">#848381</color>
+    <color name="neutral_gray_700">#5B5A57</color>
+    <color name="neutral_gray_900">#33312E</color>
+
+    <!--Primary colors-->
+    <color name="primary_blue_50">#E5F0FA</color>
+    <color name="primary_blue_300">#99C3EE</color>
+    <color name="primary_blue_500">#4C97E2</color>
+    <color name="primary_blue_700">#006BD6</color>
+    <color name="primary_blue_900">#004A95</color>
+
+    <!--Green-->
+    <color name="green_50">#b9f6ca</color>
+    <color name="green_100">#b9f6ca</color>
+    <color name="green_300">#b9f6ca</color>
+    <color name="green_500">#69f0ae</color>
+    <color name="green_700">#00e676</color>
+    <color name="green_900">#00c853</color>
+    <color name="green">#4CAF50</color>
+
+    <!--Black-->
+    <color name="black_50">#0D000000</color>
+    <color name="black_100">#1A000000</color>
+    <color name="black_300">#4D000000</color>
+    <color name="black_500">#80000000</color>
+    <color name="black_700">#B3000000</color>
+    <color name="black_900">#E6000000</color>
+    <color name="black_tonal">#121110</color>
+    <color name="black">#FF000000</color>
+
+    <!--Shades-->
+    <color name="white">#FFFFFF</color>
+    <color name="white_90">#E6FFFFFF</color>
+
+    <!--Error-->
+    <color name="error_red_300">#F27F7F</color>
+    <color name="error_red_500">#E50000</color>
+
+    <!--Warning-->
+    <color name="warning_yellow_300">#F2CC7F</color>
+    <color name="warning_yellow_500">#E69900</color>
+
+    <!--Success-->
+    <color name="success_500">#12B312</color>
+    <color name="approve">#12B212</color>
+    <color name="system_green">#34C759</color>
+    <color name="color_sequenced_task">#0DA300</color>
+
+    <!--Other-->
+    <color name="progressBackground">#90ffffff</color>
+    <color name="color_non_sequenced_task">#3C23BC</color>
+    <color name="colorPrimary">#FF658FFF</color>
+    <color name="red">#F44336</color>
+    <color name="gray">#848381</color>
+    <color name="separator_bg">#EAEAEA</color>
+    <color name="orange">#DF6914</color>
+    <color name="blue">#006BD6</color>
+    <color name="btn_gray">#EAEAEA</color>
+    <color name="box_gray">#EAEAEA</color>
+    <color name="hint_color">#848381</color>
+    <color name="segmented_controller_text">#ADACAB</color>
+
+    <color name="main_background_color">#E5E5E5</color>
+    <color name="warning_error">#E69900</color>
+    <color name="error_red">#F27F7F</color>
+    <color name="warning_yellow">#F2CC7F</color>
+
+    <color name="shimmer_background">#dddddd</color>
+    <color name="neutral_gray_100">#E7E7E7</color>
+
+    <!--Active Status -->
+    <color name="active">#34C759</color>
+    <color name="inactive">#E50000</color>
+    <color name="search_hint">#919195</color>
+    <color name="offline">#919195</color>
+    <color name="search_tx">#99EBEBF5</color>
+
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#673AB7</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+
+    <color name="write_message_hint">#919195</color>
+    <color name="chat_icon_color">#006BD6</color>
+    <color name="send_chat">#006BD6</color>
+
+    <!--Colors with Night mode support-->
+    <color name="tags_title_text">#FF000000</color>
+    <color name="tags_dropdown_icon_tint">#33312E</color>
+    <color name="back_button_icon_tint">@color/neutral_gray_900</color>
+    <color name="account_settings_background">@color/white</color>
+    <color name="blocked_accounts_bg">@color/neutral_gray_50</color>
+    <color name="forget_password_text">@color/error_red_500</color>
+    <color name="deactivate_bg">@color/black</color>
+    <color name="dialog_share_bg">@color/white</color>
+    <color name="direct_share_bg">@color/white</color>
+    <color name="unfollow_btn">@color/white</color>
+    <color name="follower_item_bg">@color/white</color>
+    <color name="text_field_box_bg">@color/neutral_gray_50</color>
+    <color name="blackWhite">@color/black</color>
+    <color name="whiteBlack">@color/white</color>
+    <color name="divider_color">@color/neutral_gray_50</color>
+    <color name="unfollow_btn_profile">@color/white</color>
+    <color name="error_dialog_btn_stroke">@color/neutral_gray_50</color>
+    <color name="error_dialog_btn_solid">@color/neutral_gray_50</color>
+    <color name="theme_tab_layout_selected_bg">@color/white</color>
+    <color name="theme_tab_layout_unselected_bg">@color/neutral_gray_50</color>
+    <color name="theme_tab_background">@color/neutral_gray_50</color>
+    <color name="trophy_case_item_bg">@color/neutral_gray_50</color>
+    <color name="edit_text_bg">@color/neutral_gray_50</color>
+    <color name="dashboard_bg">#80EAEAEA</color>
+    <color name="dashboard_influence_bg">@color/white</color>
+    <color name="dashboard_settings_bg">@color/neutral_gray_50</color>
+    <color name="dashboard_influence_separator">@color/neutral_gray_50</color>
+    <color name="impact_stats_bg">@color/neutral_gray_50</color>
+    <color name="light_night_mode_gray">@color/neutral_gray_700</color>
+    <color name="stats_card_bg">@color/white</color>
+    <color name="group_dialog_bg">@color/white</color>
+    <color name="group_dialog_text">@color/neutral_gray_900</color>
+    <color name="stats_icon_color">@color/black</color>
+
+</resources>
